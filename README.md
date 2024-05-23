@@ -106,11 +106,11 @@
 
 맨동은 한국장학협회, 대학알리미, 한국장학재단, 국가통계포털의 데이터를 활용해 장학금 시장에 관한 조사를 진행했습니다.
 
-### **1️⃣ 부담되는 대학생의 등록금**
+### **1️⃣ 부담되는 대학생의 등록금**
 
 2022년 기준, 대학생의 1인 당 연평균 등록금은 약 676.3만원으로 나타났습니다. 등록금 이외 생활하는 데 필요한 최소 생활비를 월 80만원으로 가정하고, 등록금과 생활비를 합산하여 재학생의 연간 생활비를 계산해보면 인당 약 1320만원 정도로 추정할 수 있습니다. 그러나 고정 수입이 없는 대학생들에게 이러한 금액은 큰 부담으로 다가오기 쉽습니다. 더불어 2021년도 1학기 학자금 대출 총액은 1.48조원으로 나타났고, 학기당 등록금과 생활비 조달을 위해 학자금 대출을 받는 학생 수도 약 40만 명에 육박합니다.
 
-### **2️⃣ 다양한 장학금 정책**
+### **2️⃣ 다양한 장학금 정책**
 
 이러한 상황 속에서 대학생들이 대학생활에 있어 등록금 부담은 덜고, 학업에 집중할 수 있도록 국가 차원에서도 다양한 장학금 정책을 위해 힘쓰고 있습니다. 구체적으로 2020년 기준 대학교의 장학금 총액은 5조원, 전문대학의 장학금 총액은 1.5조원으로 나타났습니다.
 
@@ -122,7 +122,7 @@
 
 ![chart-3](https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/6bbb1295-ad6a-42be-b783-a151d48386f1)
 
-### 3️⃣ 장학금 수혜, 잘 이뤄지고 있는가?
+### 3️⃣ 장학금 수혜, 잘 이뤄지고 있는가?
 
 _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘 활용하고 있을까요?_
 
@@ -308,21 +308,21 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 - 실제 장학금 지원 사이트 외에 접속해야 하는 부가 사이트의 숫자를 줄여주고자 합니다.
 - 최대한 장학금 지원 사이트와 우리 서비스만을 통해 장학금을 신청하고 관리할 수 있도록 합니다.
 
-### 2️⃣ **장학금 지원 과정에 있어 조건 별 부합여부 확인**
+### 2️⃣ **장학금 지원 과정에 있어 조건 별 부합여부 확인**
 
 내가 해당 지원금의 지원 조건에 부합하는지 판단하는 것에 많은 대학생들이 어려움을 느끼고 있었습니다.
 
 - 내가 어떤 조건에 부합하지 않아 신청 불가한 지 확인할 수 있는, 기존 시장에 존재하지 않았던 온보딩 정보 기반 개별 조건 부합여부 확인 기능을 제공하고자 합니다.
 - 이는 장학금 신청에 있어 조건 부합여부 판단이 어렵게 느껴지는 심리적 장벽을 낮추고, 추후 본인의 조건을 보완하여 더 많은 장학금 신청이 가능하도록 도와주는 역할을 할 것입니다.
 
-### **3️⃣ 전반적인 장학금 지원 프로세스 관리**
+### **3️⃣ 전반적인 장학금 지원 프로세스 관리**
 
 다양한 교외장학금이 있음에도 불구하고, 수많은 일정을 관리하지 못해 지원 기간을 놓치는 경우가 많고, 이를 관리할 수 있는 기능이 기존 시장에 존재하지 않아 해당 문제가 해결되지 못하고 있음을 발견하였습니다.
 
 - 캘린더뷰를 통해 장학금 지원의 일정을 디테일하게 관리할 수 있도록 하여, 장학금 지원 마감일을 놓치는 경우가 없도록 합니다.
 - 지원 상태 관리 기능을 통해 나의 모든 장학금 지원 내역을 모아볼 수 있는 공간의 역할을 합니다.
 
-### **4️⃣ 증빙서류 및 자기소개서, 모든 서류를 한 곳에서**
+### **4️⃣ 증빙서류 및 자기소개서, 모든 서류를 한 곳에서**
 
 장학금 지원을 위해서는 성적증명서/재학증명서/소득분위 통지서 등 조건 부합여부를 증명할 수 있는 증빙서류와 학교장추천서/자기소개서와 같은 부가적으로 작성해야 하는 서류까지, 꽤 많은 서류가 필요합니다. 기존에 특정 증빙서류를 발급 받았다고 하여도 언제 발급 받았는지, 어디서 발급 받았는지를 일일이 찾아보기도 쉽지 않습니다. 또, 장학금 지원 자기소개서에 반복적으로 포함되는 내용이 많은 만큼, 이전에 작성했던 자기소개서를 모아서 볼 수 있다면 좀 더 수월하게 작성이 가능하겠다는 생각이 들었고 이를 우리 서비스를 통해 해결하고자 합니다.
 
@@ -336,10 +336,10 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 | 핵심기능                   | 설명                                                                                                                                       | 목적                                                                                                                                                                                                        |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ✅ 추천 장학금             | 온보딩 시 장학금 수혜 조건에 주로 포함되는 정보를 받고, 해당 정보를 기반으로 공고와 유저의 조건이 부합하는 장학금을 선별하여 유저에게 추천 | 1) 온보딩 정보를 기반으로 각자의 조건에 부합하는 장학금을 추천해줌으로써, 조건 부합 여부 판단 과정의 어려움과 수고를 덜어줌 2) 개인화된 맞춤 서비스를 통해 유저의 리텐션을 확보하고자 함                    |
-| ✅ 조건별 부합 여부        | 온보딩 정보 기반 공고별 조건 일치/불일치 여부 시각화                                                                                       | 장학금 수혜조건과 자신의 조건이 부합하는지, 부합하지 않는다면 정확히 어떤 조건이 부합하지 않는지 파악하기 어렵다는 유저의 페인포인트를 해소하고자 조건별 일치/불일치 여부를 시각화하여 정보를 전달하고자 함 |
-| ✅ 서류 관리               | 증빙서류 소지 여부를 확인할 수 있도록 서류 관련 정보 (서류명, 발급기관, 발급일, 메모) 수동 기입란 마련                                     | 매번 새로 발급받게 되는 증빙서류, 이를 한 곳에서 관리함으로써 내가 어떤 서류를 언제 발급받았고, 어디서 발급받았는지 명확히 확인하고 소지 여부를 파악할 수 있도록 하고자 함                                  |
+| ✅ 조건별 부합 여부        | 온보딩 정보 기반 공고별 조건 일치/불일치 여부 시각화                                                                                       | 장학금 수혜조건과 자신의 조건이 부합하는지, 부합하지 않는다면 정확히 어떤 조건이 부합하지 않는지 파악하기 어렵다는 유저의 페인포인트를 해소하고자 조건별 일치/불일치 여부를 시각화하여 정보를 전달하고자 함 |
+| ✅ 서류 관리               | 증빙서류 소지 여부를 확인할 수 있도록 서류 관련 정보 (서류명, 발급기관, 발급일, 메모) 수동 기입란 마련                                     | 매번 새로 발급받게 되는 증빙서류, 이를 한 곳에서 관리함으로써 내가 어떤 서류를 언제 발급받았고, 어디서 발급받았는지 명확히 확인하고 소지 여부를 파악할 수 있도록 하고자 함                                  |
 | ✅ 장학금 프로세스 관리    | 1) 한 눈에 다양한 장학금 일정을 확인할 수 있는 캘린더 UI 2) 지원상태 및 합불결과 등 장학금 지원에 있어 필요한 전반적인 프로세스 관리       | 장학금 지원에 필요한 여러 절차와 일정을 관리하기 어렵다는 유저의 페인포인트를 해소하고자, 해당 서비스 내에서 장학금 지원 일정 및 과정을 쉽게 관리할 수 있도록 함                                            |
-| ✅ 자기소개서 작성 및 관리 | 장학금 지원 시 필요한 자기소개서 작성 환경 제공 (장학금별 자기소개서 작성, 글자수 세기) 및 자기소개서 관리                                 | 장학금 지원을 위해 자기소개서를 작성해야 하는 경우가 많기 때문에, 서비스 자체 자기소개서 작성환경을 제공하고 자기소개서 저장소이자 관리소 역할을 하고자 함                                                  |
+| ✅ 자기소개서 작성 및 관리 | 장학금 지원 시 필요한 자기소개서 작성 환경 제공 (장학금별 자기소개서 작성, 글자수 세기) 및 자기소개서 관리                                 | 장학금 지원을 위해 자기소개서를 작성해야 하는 경우가 많기 때문에, 서비스 자체 자기소개서 작성환경을 제공하고 자기소개서 저장소이자 관리소 역할을 하고자 함                                                  |
 | ✅ 재단정보 제공 및 요약   | 장학금 운영기관의 장학금 사업 목적 및 취지에 대한 정보를 요약 기능과 함께 제공                                                             | 각 장학금에 대한 이해도를 높여 더욱 나에게 부합하는 장학금을 선택할 수 있도록 하고, 자기소개서 작성 시 각 재단의 기본적인 성격을 녹여낸 질 높은 자기소개서를 작성할 수 있도록 도움                          |
 
 <br>
@@ -376,13 +376,14 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 # **🔍 System Architecture**
 
-<img width="1920" alt="KakaoTalk_Photo_2024-04-29-22-56-18" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/b402f2a9-7788-4930-839d-db045241897d">
+<img width="1920" alt="KakaoTalk_Photo_2024-05-23-23-48-20" src="https://github.com/kusitms-com/29th_Meetup_TeamF_UnivFit_Back/assets/98576976/8badf227-475b-45ce-babb-2defdbb6739b">
 
 <br><br>
 
 # **📜 ERD 설계도**
 
-<img width="1920" height="350" alt="KakaoTalk_Photo_2024-04-29-23-10-03" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/a2fff552-b87e-4123-9381-6209ec5e142a">
+![Copy_of_mendong_4](https://github.com/kusitms-com/29th_Meetup_TeamF_UnivFit_Back/assets/98576976/8f9c4e11-55d2-46da-a4ec-fb9a794b795b)
+
 
 <br><br>
 
@@ -401,7 +402,6 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 - <img src="https://img.shields.io/badge/Java17-3178C6?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-3178C6?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-4479A1?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 <br><br>
@@ -462,41 +462,36 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
   - 다양한 운영체제에서 사용할 수 있으며, 여러 가지의 프로그래밍 언어를 지원한다.
   - 널리 알려진 표준 SQL 형식을 사용합니다.(개발에 용이)
 
-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-
-  - Schema-less 구조를 따라서 다양한 형태의 데이터를 저장할 수 있고, 데이터 모델의 유연한 변화가 가능하다.
-  - Scalue-out구조를 따라서 많은 데이터 저장이 가능하다.
-
 - <img src="https://img.shields.io/badge/Docker-4479A1?style=flat&logo=docker&logoColor=white"/>
 
-  - 작성된 애플케이션 뿐 아니라 당시 개발 환경까지 그대로 담아서 사용 서버에서 실행해주기 때문에 현재 환경에 상관없이 작성된 그대로 애플리케이션을 실행할 수 있다. (Environment Disparity 현상 해결)
+  - 작성된 애플케이션 뿐 아니라 당시 개발 환경까지 그대로 담아서 사용 서버에서 실행해주기 때문에 현재 환경에 상관없이 작성된 그대로 애플리케이션을 실행할 수 있다. (Environment Disparity 현상 해결)
     - Environment Disparity? -> 개발환경과 배포환경이 서로 맞지 않는 상태를 일컫는 말
 
 <br><br>
 
 # 🔖 Naming Rules
 
-### 👨🏻‍💻 FrontEnd
+### 👨🏻‍💻 FrontEnd
 
 - **네이밍 종류**
 
-  - `camelCase` : 소문자로 시작하고 대문자로 시작하는 모든 후속 단어
-  - `PascalCase` : 모든 단어는 대문자로 시작
-  - `snake_case` : 밑줄로 구분된 단어
-  - `UPPER_SNAKE_CASE` : 밑줄로 구분된 단어로 모든 단어가 대문자
-  - `kebab-case` : 하이픈으로 구분된 단어
+  - `camelCase` : 소문자로 시작하고 대문자로 시작하는 모든 후속 단어
+  - `PascalCase` : 모든 단어는 대문자로 시작
+  - `snake_case` : 밑줄로 구분된 단어
+  - `UPPER_SNAKE_CASE` : 밑줄로 구분된 단어로 모든 단어가 대문자
+  - `kebab-case` : 하이픈으로 구분된 단어
 
 - **네이밍 규칙**
-  - **Folder** : `kebab-case`
+  - **Folder** : `kebab-case`
   - **File** : `kebab-case`
-  - **Component** : `PascalCase`
+  - **Component** : `PascalCase`
   - **Variable** : `camelCase`
-  - **Function** : `camelCase`
+  - **Function** : `camelCase`
   - **Constant** : `UPPER_SNAKE_CASE`
 
 <br>
 
-### 👨🏻‍💻 BackEnd
+### 👨🏻‍💻 BackEnd
 
 | 종류       | 명명법                              | 예시         |
 | ---------- | ----------------------------------- | ------------ |
@@ -511,7 +506,7 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 # Commit Convention
 
-### 👨🏻‍💻 FrontEnd
+### 👨🏻‍💻 FrontEnd
 
 | Tag      | Title                                  |
 | -------- | -------------------------------------- |
@@ -525,11 +520,11 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 <br>
 
-### 👨🏻‍💻 BackEnd
+### 👨🏻‍💻 BackEnd
 
 `👉 [Prefix]: <#Issue_Number> <Issue's Description> 형식을 맞춰서 커밋을 작성합니다.`
 
-#### 📌 Prefix
+#### 📌 Prefix
 
 | Tag      | Title                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -545,7 +540,7 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 # Git Convention
 
-### 👨🏻‍💻 FrontEnd
+### 👨🏻‍💻 FrontEnd
 
 #### Github Flow
 
@@ -559,9 +554,9 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
 
 <br>
 
-### 👨🏻‍💻 BackEnd
+### 👨🏻‍💻 BackEnd
 
-#### 📄 Issue
+#### 📄 Issue
 
 `👉 Issue 생성은 Issue Template을 적극적으로 활용하여 팀원의 이해를 높여줘야 합니다.`
 
@@ -585,7 +580,7 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
 
 ---
 
-#### 🚨 Pull Request
+#### 🚨 Pull Request
 
 `👉 Pull Request 생성은 Pull Request Template을 적극적으로 활용하여 팀원의 작업내용을 이해할 수 있어야 합니다.`
 
@@ -616,7 +611,7 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
 
 ---
 
-#### ⚒️ Branch
+#### ⚒️ Branch
 
 `👉 [Header]/[#이슈 번호]/[이슈 작업 내용 요약 or Domain명]`
 
@@ -631,7 +626,7 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
 
 # Project Structure
 
-### 👨🏻‍💻 FrontEnd
+### 👨🏻‍💻 FrontEnd
 
 - **public**
   - **images** : 화면에 사용되는 이미지들을 저장하는 폴더
@@ -649,29 +644,29 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
   - **data** : 서버에 저장되지 않고 로컬에서 파일 형태로 관리하는 데이터들을 저장하는 폴더
   - **api** : API 호출 함수들을 저장하고 관리하는 폴더
 
-### 👨🏻‍💻 BackEnd
+### 👨🏻‍💻 BackEnd
 
 ```
 ├── domain
-│   ├── member
-│   │   ├── api
-│   │   │   └── MemberApi.java
-│   │   ├── application
-│   │   │   ├── MemberProfileService.java
-│   │   │   ├── MemberSearchService.java
-│   │   │   ├── MemberSignUpService.java
-│   │   ├── repository
-│   │   │   ├── MemberRepository.java
-│   │   │   ├── MemberSupportRepository.java
-│   │   │   └── MemberSupportRepositoryImpl.java
-│   │   ├── domain
-│   │   │   ├── MemberEntity.java
-│   │   ├── dto
-│   │   │   ├── LoginRequest.java
-│   │   │   └── LoginResponse.java
-│   │   └── exception
-│   │       ├── EmailNotFoundException.java
-│   │       └── MemberNotFoundException.java
+│   ├── member
+│   │   ├── api
+│   │   │   └── MemberApi.java
+│   │   ├── application
+│   │   │   ├── MemberProfileService.java
+│   │   │   ├── MemberSearchService.java
+│   │   │   ├── MemberSignUpService.java
+│   │   ├── repository
+│   │   │   ├── MemberRepository.java
+│   │   │   ├── MemberSupportRepository.java
+│   │   │   └── MemberSupportRepositoryImpl.java
+│   │   ├── domain
+│   │   │   ├── MemberEntity.java
+│   │   ├── dto
+│   │   │   ├── LoginRequest.java
+│   │   │   └── LoginResponse.java
+│   │   └── exception
+│   │       ├── EmailNotFoundException.java
+│   │       └── MemberNotFoundException.java
 │   │
 │   │
 ├── global
@@ -699,7 +694,7 @@ main 브랜치에서 작업 수행 후 commit → Vercel에서 새 commit 자동
 
 # Design Pattern
 
-### 👨🏻‍💻 FrontEnd
+### 👨🏻‍💻 FrontEnd
 
 **Top-down Process**
 
